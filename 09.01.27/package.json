@@ -1,0 +1,19 @@
+{
+  "name": "birthday-21-masterpiece",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A 1st class premium 21st birthday experience for a young lady born on 09.01.2006, celebrating her 21st birthday on 09.01.2027.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
